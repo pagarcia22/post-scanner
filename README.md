@@ -9,6 +9,4 @@ El escaneo de puertos sin autorización es ilegal en muchos países. Este proyec
 - Python 3.x
 - Nmap (opcional para modo CLI)
 
-Instalar dependencias:
-```bash
-pip install -r requirements.txt
+
